@@ -12,4 +12,10 @@ package ejercicioramasb;
  */
 public class ClaseTonto {
     
+    String frase="Cuando una persona apunta a la luna, Javi se queda viendo el dedo.";
+    
+    public void tonto(){
+        frase="Cuando javi va por un camino el camino acaba y javi(el tonto) sigue.";
+    }
+    
 }
